@@ -3,8 +3,6 @@
     
     export let data: PageData;
     let {activity} = data
-    console.log("max data id",data)
-    console.log("max data id activity",activity)
 </script>
 
 <article>
